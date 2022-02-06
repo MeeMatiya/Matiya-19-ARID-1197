@@ -1,2 +1,2 @@
 # SoftwareConstruction
-Github Assignment
+Semester Project
